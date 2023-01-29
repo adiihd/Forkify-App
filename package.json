@@ -18,6 +18,7 @@
   "homepage": "https://github.com/adiihd/Forkify-App#readme",
   "dependencies": {
     "core-js": "^3.27.2",
+    "fractional": "^1.0.0",
     "parcel": "^2.8.3",
     "regenerator-runtime": "^0.13.11"
   },
