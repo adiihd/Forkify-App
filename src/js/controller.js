@@ -161,3 +161,5 @@ const showRecipe = async function () {
 };
 
 ['hashchange', 'load'].forEach(ev => window.addEventListener(ev, showRecipe));
+
+// the mvc architecture
