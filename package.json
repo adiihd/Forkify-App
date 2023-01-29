@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adiihd/Forkify-App.git"
+  },
+  "author": "Adrian Chirculescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adiihd/Forkify-App/issues"
+  },
+  "homepage": "https://github.com/adiihd/Forkify-App#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3"
+  }
+}
