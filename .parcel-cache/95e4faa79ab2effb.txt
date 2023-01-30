@@ -9,7 +9,7 @@
 173E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\lib\WorkerFarm.js133194681946464125 0
 161E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\iterators.js133194681944084326 0
 138E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\.prettierrc132886955210000000 0
-147E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133195786384044831 0
+147E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133195851630170320 0
 172E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\instance\un-this.js133194724164562675 0
 188E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\highlight\node_modules\color-name\LICENSE133194681941571490 0
 181E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\virtual\find-last.js133194724151559562 0
@@ -35,7 +35,7 @@
 165E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\ts41\index.d.ts133194681944465681 0
 160E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\ordered-binary\.idea133194681943654755 1
 174E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\ts41\delimiter-case.d.ts133194681943752398 0
-131E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist133195790753069986 1
+131E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist133195851723187661 1
 165E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\src\path.js133194681947161464 0
 165E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\error\index.js133194724154640894 0
 180E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\instance\starts-with.js133194724161770706 0
@@ -163,7 +163,7 @@
 148E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\sass\_recipe.scss132886955210000000 0
 197E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133194681948805252 0
 146E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\img\favicon.png132886955210000000 0
-143E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\config.js133195514342998886 0
+143E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\config.js133195843237725612 0
 187E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.typed-array.find-last.js133194724150488727 0
 171E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\function\virtual133194724154458417 1
 158E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib\size.js133194681947146424 0
@@ -193,7 +193,7 @@
 166E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\value\list.d.ts133194688139237892 0
 172E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\regexp\to-string.js133194724163685738 0
 170E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\small.js133194724161197006 0
-142E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\model.js133195518468996528 0
+142E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\model.js133195847153463702 0
 190E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\async-disposable-stack\constructor.js133194724145819682 0
 171E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\GI.js133194681951322849 0
 170E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\italics.js133194724156416906 0
@@ -248,20 +248,20 @@
 180E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\last-index-of.js133194724157216467 0
 179E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture133194681948663596 1
 178E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\webauthn.js133194681954961090 0
-154E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\views\resultsView.js133195788847028937 0
+154E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\views\resultsView.js133195851722867592 0
 146E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@types133194681930124584 1
 185E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\abortcontroller-polyfill\dist\cjs-ponyfill.js133194681942932047 0
 176E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\css-what\lib\commonjs\parse.d.ts.map133194681943971572 0
 173E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\symbol\to-primitive.js133194724163105522 0
 157E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\types\set.js133194681946255770 0
 193E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\accessible-object-hasownproperty.js133194724143548106 0
-153E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\views\searchView.js133195707798863553 0
+153E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\views\searchView.js133195850167458285 0
 171E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\source-map\package.json133194681944773939 0
 177E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib\compress\native-objects.js133194681946643670 0
 148E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\boolbase133194681940894469 1
 171E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\update-browserslist-db\index.js133194681941515883 0
 181E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\restructure\8-restructRuleset.js133194681943075269 0
-147E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133195790752769255 0
+147E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133195792356751753 0
 171E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\dist\index-no-eval.cjs133194681941208370 0
 144E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\src\img\icons.svg132886955210000000 0
 165E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\number\virtual133194724163029427 1
@@ -1914,7 +1914,7 @@
 159E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\semver\CHANGELOG.md133194681942553883 0
 162E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\picomatch\lib\parse.js133194681941823829 0
 176E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.has-own.js133194724148084844 0
-149E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133195786135769380 0
+149E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133195845072034582 0
 171E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\NC.js133194681952913488 0
 159E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\semver\package.json133194681942217180 0
 157E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\semver\bin\semver133194681940764432 0
@@ -2428,7 +2428,7 @@
 182E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@jridgewell\gen-mapping\src\gen-mapping.ts133194681943452632 0
 219E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\package.json133194681948255425 0
 181E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\to-well-formed.js133194724163750442 0
-153E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133195790753056791 0
+153E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133195851723187661 0
 171E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\watcher\src\unix\fts.cc133194681943261175 0
 160E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\index.d.cts133194681942994344 0
 180E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.string.starts-with.js133194724148700041 0
@@ -2596,7 +2596,7 @@
 169E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\clean\Declaration.js133194681945574308 0
 173E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133194681948623595 0
 175E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\README.md133194681949123716 0
-152E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133195786135465623 0
+152E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133195845071804529 0
 173E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\slice.js133194724161106628 0
 174E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133194681948764220 0
 176E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\virtual\some.js133194724161361596 0
@@ -4357,7 +4357,7 @@
 178E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.find.js133194724148978373 0
 187E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.float64-array.js133194724148988358 0
 182E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.for-each.js133194724148998625 0
-142E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.html133195786135698244 0
+142E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.html133195845071804529 0
 179E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\is-data-descriptor.js133194724155847816 0
 222E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\main.js133194681947054303 0
 178E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.from.js133194724148998625 0
@@ -4379,7 +4379,7 @@
 182E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.subarray.js133194724149156208 0
 186E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.uint32-array.js133194724149186213 0
 174E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\of.js133194724158648938 0
-154E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133195786135455621 0
+154E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133195845071844552 0
 193E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.uint8-clamped-array.js133194724149191244 0
 168E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\object\index.js133194724155195931 0
 170E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.weak-map.js133194724149221284 0
@@ -5607,7 +5607,7 @@
 170E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\flat.js133194724152175024 0
 174E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\for-each.js133194724152477659 0
 178E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\group-to-map.js133194724153688033 0
-150E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133195786135688251 0
+150E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133195845071934551 0
 174E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\is-array.js133194724155739760 0
 174E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\iterator.js133194724156639998 0
 170E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\join.js133194724156819321 0
@@ -6343,7 +6343,7 @@
 184E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\virtual\group-to-map.js133194724153678025 0
 180E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\virtual\includes.js133194724154078263 0
 177E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\virtual\index.js133194724154387239 0
-150E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133195786135395104 0
+150E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133195845071804529 0
 168E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\src\Trace.js133194681946185748 0
 176E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\virtual\keys.js133194724156971009 0
 177E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\virtual\slice.js133194724160987471 0
@@ -7810,6 +7810,6 @@
 149E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo133194681955484630 0
 155E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\terser.cmd133194681955484630 0
 155E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\terser.ps1133194681955484630 0
-150E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133195786135688251 0
-149E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133195790753046657 0
+150E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133195845071934551 0
+149E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133195851723167659 0
 151E:\Torrent\Udemy-The.Complete.JavaScript.Course.2022_From.Zero.to.Expert!\complete-javascript-course-master\18-forkify\starter\dist\starter.3464ddca.js133194688157259878 0
