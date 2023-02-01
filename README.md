@@ -24,12 +24,24 @@ npm run start
 
 4. Open your browser to http://localhost:1234 to see the project in action!
 
+### Note
+
+In order to upload your own recipes, you must have your own API key which can be obtained from [here])https://forkify-api.herokuapp.com/). Once you have your API key, simply input it in the designated field in the config.js file to start using all of its features.
+
 ## 🛠️ Built With
 
 - JavaScript ES6+
 - [Parcel](https://parceljs.org/) - Module Bundler
 - [NPM](https://www.npmjs.com/) - Package Manager
 - [SASS](https://sass-lang.com/) - CSS Preprocessor
+- [Forkify API](https://forkify-api.herokuapp.com/) - Recipe database
+
+## 📙 Key Features
+
+- Search through over one million recipes
+- Bookmark your favorite recipes
+- Upload your own recipes
+- User-friendly interface
 
 ## 💻 Contributing
 
