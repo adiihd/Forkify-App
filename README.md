@@ -29,6 +29,7 @@ npm run start
 - JavaScript ES6+
 - [Parcel](https://parceljs.org/) - Module Bundler
 - [NPM](https://www.npmjs.com/) - Package Manager
+- [SASS](https://sass-lang.com/) - CSS Preprocessor
 
 ## 💻 Contributing
 
