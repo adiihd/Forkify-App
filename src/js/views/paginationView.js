@@ -5,7 +5,7 @@ import { RES_PER_PAGE } from '../config.js';
 class PaginationView extends View {
   _parentElement = document.querySelector('.pagination');
 
-  addHnadlerClick(handler) {
+  addHandlerClick(handler) {
     this._parentElement.addEventListener('click', function (e) {
       const btn = e.target.closest('.btn--inline');
 
